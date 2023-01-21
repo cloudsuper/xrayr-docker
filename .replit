@@ -1,0 +1,6 @@
+run = ["bash", "xrayr.sh"]
+
+entrypoint = "xrayr.sh"
+
+[nix]
+channel = "stable-21_11"

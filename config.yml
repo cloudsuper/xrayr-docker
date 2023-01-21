@@ -17,7 +17,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://kilcdn1q2.heimayun.xyz"
       ApiKey: "heimayunheimayun"
-      NodeID: 45
+      NodeID: 48
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
